@@ -1,0 +1,30 @@
+# coding:utf-8
+
+REDIS_HOST = 'localhost'
+
+REDIS_PORT = 6379
+
+REDIS_PASSWORD = None
+
+REDIS_KEY = 'weixin'
+
+VALID_STATUSES = [200]
+
+TIMEOUT = 10
+
+PROXY_POOL_URL = 'http://127.0.0.1:5555/random'
+
+MYSQL_HOST = 'localhost'
+
+MYSQL_PORT = 3306
+
+MYSQL_USER = 'root'
+
+MYSQL_PASSWORD = '82642846asd'
+
+MYSQL_DATABASE = 'spiders'
+
+MAX_FAILED_TIME = 20
+
+
+
